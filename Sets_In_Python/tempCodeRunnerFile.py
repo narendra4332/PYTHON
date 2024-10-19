@@ -1,0 +1,1 @@
+input("Enter Any Number:")
